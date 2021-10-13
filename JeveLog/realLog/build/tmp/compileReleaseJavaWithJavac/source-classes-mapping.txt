@@ -1,0 +1,2 @@
+com/jevely/reallog/BuildConfig.java
+ com.jevely.reallog.BuildConfig
